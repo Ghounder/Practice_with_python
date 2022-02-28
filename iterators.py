@@ -38,7 +38,7 @@ def Fibonacci(num_max : int):
 
     
 def run():
-    Fibonacci(int(input("ingrese un numero")))
+    Fibonacci(int(input("ingrese un numero: ")))
 
 
 if __name__ == "__main__":
